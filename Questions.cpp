@@ -1,6 +1,6 @@
 // Calculate sum of numbers from 1 to N
 
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int sumN(int n){
     int sum=0;
@@ -49,7 +49,7 @@ int sumOfDigits(int num){
 int main(){
     cout<<"sum = "<<sumOfDigits(4567)<<endl;
     return 0;
-}*/
+}
 
 // Calculate nCr binomial coefficient for n & r
 
