@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int dec2bin(int decNum){
     int ans = 0, pow=1;
@@ -18,7 +18,7 @@ int main(){
         cout<<dec2bin(i)<<endl;
     }
     return 0;
-}*/
+}
 
 #include<iostream>
 using namespace std;
